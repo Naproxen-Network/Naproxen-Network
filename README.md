@@ -22,7 +22,7 @@ I am an undergraduate student majoring in **Computer Science and Technology** at
   <br/>
   Here are some of my key courses with scores that reflect my solid academic foundation:
   <ul>
-    <li><b>Algorithm Design and Analysis:</b> 100/100</li>
+    <li><b>Complex Networks and Data Mining:</b> 100/100</li>
     <li><b>Computer Vision:</b> 100/100</li>
     <li><b>Java Language Programming:</b> 99/100</li>
     <li><b>Database Course Design:</b> 99/100</li>
@@ -33,7 +33,6 @@ I am an undergraduate student majoring in **Computer Science and Technology** at
     <li><b>High-Performance Computing & Parallel Programming:</b> 94/100</li>
     <li><b>Computer Organization:</b> 94/100</li>
     <li><b>Software Engineering:</b> 94/100</li>
-    <li><b>Complex Networks and Data Mining:</b> Excellent </li>
   </ul>
 </details>
 
