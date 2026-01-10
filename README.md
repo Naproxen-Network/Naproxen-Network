@@ -1,4 +1,4 @@
-<h1 align="center">Naproxen </h1>
+<h1 align="center">Bingqiao Gu （谷炳桥） </h1>
 <h3 align="center">A Computer Science undergraduate at Shandong University, passionate about the intersection of Multi-Agent Systems, Large Language Models, and Reinforcement Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naproxen-network&label=Profile%20views&color=0e75b6&style=flat" alt="naproxen-network" /> </p>
