@@ -1,5 +1,5 @@
 <h1 align="center">Bingqiao Gu </h1>
-<h3 align="center">A Computer Science undergraduate at Shandong University, passionate about the intersection of Multi-Agent Systems, Large Language Models, and Reinforcement Learning.</h3>
+<h3 align="center">Passionate about the intersection of Multi-Agent Systems, Large Language Models, and Reinforcement Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naproxen-network&label=Profile%20views&color=0e75b6&style=flat" alt="naproxen-network" /> </p>
 
@@ -15,18 +15,6 @@ I am an undergraduate student majoring in **Computer Science and Technology** at
     -   The synergy between **LLM-based Agents** and **Multi-Agent Reinforcement Learning (MARL)**.
     -   Modeling and analysis of **Higher-Order Complex Systems** (e.g., **Hypergraph Computing**).
     -   Simulating **Microscopic Network Dynamics**.
-
-<details>
-  <summary><b>📚 Academic Highlights & Key Coursework</b></summary>
-  <br/>
-  Here are some of my key courses with scores that reflect my solid academic foundation:
-  <ul>
-    <li><b>Computer Vision:</b> 100/100</li>
-    <li><b>Java Language Programming:</b> 99/100</li>
-    <li><b>Database Course Design:</b> 99/100</li>
-    <li><b>Data Structures Course Design:</b> 98/100</li>
-  </ul>
-</details>
 
 ---
 
