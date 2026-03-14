@@ -7,7 +7,7 @@
 
 ### About Me
 
-I am an undergraduate student majoring in **Computer Science and Technology** at **Shandong University**. My academic and research journey is driven by a fascination with complex intelligent systems and their societal implications.
+My academic and research journey is driven by a fascination with complex intelligent systems and their societal implications.
 
 -   **Broad Research Interests:** My interests span across **Multi-Agent Systems (MAS)**, **Large Language Models (LLMs)**, **Reinforcement Learning (RL)**, **Social Network Analysis & Social Computing**, **Large-scale Graph Data Mining**, and **Hypergraph Computing**.
 
