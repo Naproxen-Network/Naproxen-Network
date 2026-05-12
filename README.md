@@ -1,4 +1,3 @@
-<h1 align="center">Bingqiao Gu </h1>
 <h3 align="center">Passionate about the intersection of Multi-Agent Systems, Large Language Models, and Reinforcement Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naproxen-network&label=Profile%20views&color=0e75b6&style=flat" alt="naproxen-network" /> </p>
@@ -9,25 +8,6 @@
 
 My academic and research journey is driven by a fascination with complex intelligent systems and their societal implications.
 
--   **Broad Research Interests:** My interests span across **Multi-Agent Systems (MAS)**, **Large Language Models (LLMs)**, **Reinforcement Learning (RL)**, **Social Network Analysis & Social Computing**, **Large-scale Graph Data Mining**, and **Hypergraph Computing**.
-
--   **Current Research Focus:** I am currently diving deeper into more specific areas, including:
-    -   The synergy between **LLM-based Agents** and **Multi-Agent Reinforcement Learning (MARL)**.
-    -   Modeling and analysis of **Higher-Order Complex Systems** (e.g., **Hypergraph Computing**).
-    -   Simulating **Microscopic Network Dynamics**.
-
----
-
-### What I'm Up To
-
--   I’m currently exploring the synergy between **LLM-based Agents** and **Multi-Agent Reinforcement Learning (MARL)**.
--   I’m diving deep into **Higher-Order Complex Systems**, **Hypergraph Computing**, and the dynamics of **Microscopic Networks**.
--   I’m looking to collaborate on open-source projects related to **AI Agents, RL, Social Computing, or Graph Mining**.
--   Ask me about **Python, PyTorch, and anything related to Multi-Agent Systems, LLMs, and Complex Networks**.
--   How to reach me: **gubingqiao@mail.sdu.edu.cn**
--   Fun fact: I believe multi-agent systems can create emergent intelligence, much like a digital society.
-
----
 
 ### 📊 My GitHub Stats
 
